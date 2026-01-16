@@ -1,0 +1,18 @@
+{
+  "name": "pfg-node-app",
+  "version": "1.0.0",
+  "description": "Mi primera app Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^4.22.1",
+    "pg": "^8.17.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
